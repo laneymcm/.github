@@ -20,6 +20,7 @@ To learn more about these paradigms shifts, see [AI Is Evolving - And Changing O
 ## Research Publications
 | Title | Publication |  Author(s) | Publication Date|
 | ---- | ---------- | -------| ----- |
+| [MesaNet: Sequence Modeling by Locally Optimal Test-Time Training](https://arxiv.org/abs/2506.05233) | ArXiV |**Johannes von Oswald**, **Nino Scherrer**, **Seijin Kobayashi**, **Luca Versari**, Songlin Yang, **Maximilian Schlegel**, **Kaitlin Maile**, **Yanick Schimpf**, Oliver Sieberling, **Alexander Meulemans**, **Rif A. Saurous**, **Guillaume Lajoie**, **Charlotte Frenkel**, Razvan Pascanu, **Blaise Agüera y Arcas**, **João Sacramento**| June 5, 2025|
 | [A matter of principle? AI alignment as the fair treatment of claims](https://link.springer.com/article/10.1007/s11098-025-02300-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250330&utm_content=10.1007%2Fs11098-025-02300-4) | Philosophical Studies |Iason Gabriel, **Geoff Keeling**| March 30, 2025|
 | [Differentiable Logic Cellular Automata](https://google-research.github.io/self-organising-systems/difflogic-ca/) | Interactive Article +|**Pietro Miotti**, **Eyvind Niklasson**, **Ettore Randazzo**, **Alexander Mordvintsev** | March 3, 2025|
 | [Weight decay induces low-rank attention layers](https://arxiv.org/abs/2410.23819)|  Neurips 2024 |**Seijin Kobayashi**, Yassir Akram, **Johannes Von Oswald**| October 31, 2024|
